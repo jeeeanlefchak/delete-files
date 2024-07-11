@@ -1,1 +1,1 @@
-# delete-files
+Arquivo .bat para deletar builds de arquivos com mais de 5 dias e mantendo o mais recente.
